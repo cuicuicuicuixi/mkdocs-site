@@ -4,6 +4,10 @@ site_url: https://cuicuicuicuixi.github.io/mkdocs-site
 site_author:  cuixi
 site_description: cuixi的个人网站
 
+# [CSS] 
+extra_css:
+  - stylesheets/extra.css
+
 # [UI]
 ## [top]
 theme:
@@ -31,3 +35,19 @@ theme:
   language: zh # 一些提示性的文字会变成中文
   icon:
     repo: fontawesome/brands/github
+
+edit_uri: edit/main/docs # 编辑按钮跳转的链接
+## [top-right corner]
+repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # 右上角点击跳转的链接
+repo_name: yang-xijie.github.io # 右上角的名字
+## [bottom-left corner]
+copyright: Copyright &copy; 2022 cuicuicuicuixi # 左下角的版权声明
+## [bottom-right corner]
+extra:
+  social: # icons
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/370434748
+      name: Bilibili | jojo高木 # 鼠标悬浮提示
+    - icon: fontawesome/brands/github
+      link: https://github.com/cuicuicuicuixi
+      name: GitHub | cuicuicuicuixi
