@@ -55,5 +55,6 @@ extra:
 # [Navigtion]
 nav:
   - GameEngine:
-    -Render: GameEngine/index.md
-    -Physic: GameEngine/index.md
+    - index.md
+    - Render: GameEngine/index.md
+    - Physic: GameEngine/index.md
