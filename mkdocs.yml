@@ -4,9 +4,9 @@ site_url: https://cuicuicuicuixi.github.io/mkdocs-site
 site_author:  cuixi
 site_description: cuixi的个人网站
 
-# [CSS] 
-extra_css:
-  - stylesheets/extra.css
+# # [CSS] 
+# extra_css:
+#   - stylesheets/extra.css
 
 # [UI]
 ## [top]
@@ -52,8 +52,8 @@ extra:
       link: https://github.com/cuicuicuicuixi
       name: GitHub | cuicuicuicuixi
 
-# [Navigtion]
-nav:
-  - GameEngine:
-    -Render:
-    -Physic:
+# # [Navigtion]
+# nav:
+#   - GameEngine:
+#     -Render:
+#     -Physic:
