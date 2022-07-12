@@ -54,7 +54,9 @@ extra:
 
 # [Navigtion]
 nav:
+  - PointCloud Reconstruction: 
+    - index.md
   - GameEngine:
     - index.md
-    - Render: GameEngine/index.md
-    - Physic: GameEngine/index.md
+    - Render: GameEngine/Render/前言和内容说明.md
+    - Physic: GameEngine/Physic/前言和内容说明.md
