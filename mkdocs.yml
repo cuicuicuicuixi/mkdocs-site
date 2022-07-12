@@ -51,3 +51,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/cuicuicuicuixi
       name: GitHub | cuicuicuicuixi
+
+# [Navigtion]
+nav:
+  - GameEngine:
+    -Render:
+    -Physic:
