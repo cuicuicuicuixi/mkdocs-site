@@ -52,8 +52,8 @@ extra:
       link: https://github.com/cuicuicuicuixi
       name: GitHub | cuicuicuicuixi
 
-# # [Navigtion]
-# nav:
-#   - GameEngine:
-#     -Render:
-#     -Physic:
+# [Navigtion]
+nav:
+  - GameEngine:
+    -Render: GameEngine/index.md
+    -Physic: GameEngine/index.md
