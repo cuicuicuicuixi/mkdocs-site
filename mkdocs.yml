@@ -59,12 +59,6 @@ nav:
     - index.md
   - GameEngine:
     - index.md
-    - Render: GameEngine/Render/前言和内容说明.md
+    - Render: GameEngine/Render/前言和内容说明.md 
     - Physic: GameEngine/Physic/前言与内容说明.md
-  - BrushLeetcode:
-    - docs/BrushLeetcode/README.md
-    - Algorithms:
-      - index.md
-    - Data Structures:
-      - index.md
-      - String: docs/BrushLeetcode/DataStructures/String/README.md
+
