@@ -64,6 +64,6 @@ nav:
   - OperatingSystem:
     - OperatingSystem/index.md
   - CloudNative:
-    云原生/define.md
-    云原生/四要素.md
+    - 定义: 云原生/define.md
+    - 四要素: 云原生/四要素.md
 
