@@ -66,4 +66,5 @@ nav:
   - CloudNative:
     - 定义: 云原生/define.md
     - 四要素: 云原生/四要素.md
+    - 12因子: 云原生/12因子.md
 
