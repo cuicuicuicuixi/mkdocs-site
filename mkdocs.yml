@@ -61,4 +61,6 @@ nav:
     - index.md
     - Render: GameEngine/Render/前言和内容说明.md 
     - Physic: GameEngine/Physic/前言与内容说明.md
+  - OperatingSystem:
+    - OperatingSystem/index.md
 
